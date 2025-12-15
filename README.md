@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MediConnect Backend
 
 Real-Time Dispensary and Doctor Availability Tracker - Backend API
@@ -231,3 +232,7 @@ MediConnect Development Team
 ---
 
 **Note**: This is a backend API only. A separate frontend application is required to provide the user interface.
+=======
+# MediConnect
+A mobile app connecting local dispensaries with patients using real-time doctor availability, queue management, and medical records.
+>>>>>>> f1b5cef3a3f9419e7c8d26a182758b8e6b09a9ce
